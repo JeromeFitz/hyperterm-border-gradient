@@ -1,0 +1,19 @@
+{
+  "name": "hyperterm-border-gradient",
+  "version": "0.1.0",
+  "description": "Turn the hyperterm border into a gradient.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeromeFitz/hyperterm-border-gradient"
+  },
+  "keywords": [
+    "hyperterm"
+  ],
+  "author": {
+    "name": "Jerome Fitzgearld",
+    "email": "j@jeromefitzgerald.com",
+    "url": "http://jeromefitzgerald.com"
+  },
+  "homepage": "https://github.com/JeromeFitz/hyperterm-border-gradient",
+  "dependencies": {}
+}
