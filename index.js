@@ -54,6 +54,11 @@ module.exports.decorateConfig = (config) => {
       .hyperterm_main .terms_term {
         margin-top: ${borderWidth};
       }
+      .tabs_title,
+      .tab_tab.tab_active .tab_text {
+        color: ${tempConfig.borderColors[0]};
+      }
+
     `
   });
 }
